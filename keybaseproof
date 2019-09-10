@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am adamsparey on github.
+  * I am addsteal (https://keybase.io/addsteal) on keybase.
+  * I have a public key ASALA21vUWqUBIsgxNxta6cQL-fRK2vd16GbXosF9WJjngo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01200b036d6f516a94048b20c4dc6d6ba7102fe7d12b6bddd7a19b5e8b05f562639e0a",
+      "host": "keybase.io",
+      "kid": "01200b036d6f516a94048b20c4dc6d6ba7102fe7d12b6bddd7a19b5e8b05f562639e0a",
+      "uid": "cb85f506c07d6e414e46de60db4a2e19",
+      "username": "addsteal"
+    },
+    "merkle_root": {
+      "ctime": 1568147341,
+      "hash": "4c118f1419304619e4fc86e55b03cbdad6f22ff042beac4aa38db4e7d79cca62694618f9e499316ea3604896d6e72d0b61a583440a77e42be8c135a4ce15c522",
+      "hash_meta": "034ccbc22b9f62adff0e8545e2f0f8d33b5c2c2e97ee966e382855aac12c4580",
+      "seqno": 6515041
+    },
+    "service": {
+      "entropy": "qNtib73CJJQJHrbXcG8IpSCd",
+      "name": "github",
+      "username": "adamsparey"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568147352,
+  "expire_in": 504576000,
+  "prev": "0e55b297c7086ab59caaf3998a543f73526ce5a7638d50e51637645d065a2ab7",
+  "seqno": 5,
+  "tag": "signature"
+}
+```
+
+with the key [ASALA21vUWqUBIsgxNxta6cQL-fRK2vd16GbXosF9WJjngo](https://keybase.io/addsteal), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgCwNtb1FqlASLIMTcbWunEC/n0Str3dehm16LBfViY54Kp3BheWxvYWTESpcCBcQgDlWyl8cIarWcqvOZilQ/c1Js5adjjVDlFjdkXQZaKrfEIJ2YxgBBu/Mtjnu+vUIQsBJuAN3gvDS0S1q/a5bMm95eAgHCo3NpZ8RAfCiFjdUwjetFtBM94OL8R1WXuz+w8EdWY8laSx1OaUXF6pY3sLjDpGll97RV11OyPKIwhZhh4LSo/yML7AYLBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFAf35vwVHW0bcGDIqmwZh/zG+ZnDEv6zAVEZe2x93PMo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/addsteal
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id addsteal
+```
